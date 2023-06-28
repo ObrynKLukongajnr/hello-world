@@ -1,6 +1,6 @@
 # hello-world
 Sample repository for my GitHub tutorial
-## Obryn
+## Lukonga
 ### A very smart and articulative young man. A holder of an Advanced Certificate in Advanced Computer Studies.
      Very ambitious and goal oriented, I am currently a student at ALX Africa, where  am trying to pursue a certification in Software engineering
      I am Data Entry and Admin Clerk at OneLife Communications & Events and I have about 3 years of experience in that in that field. 
